@@ -8,6 +8,10 @@ import random
 import numpy as np
 import PIL
 
+from PIL import __version__
+PIL.PILLOW_VERSION = __version__
+
+
 from skimage.transform import resize, rotate
 from skimage.util import pad
 import torchvision
