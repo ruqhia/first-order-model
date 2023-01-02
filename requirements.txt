@@ -1,5 +1,4 @@
 imageio==2.5.0
-matplotlib==2.2.2
 python-dateutil==2.7.3
 pytz==2018.5
 PyYAML==6.0
