@@ -17,7 +17,7 @@ from skimage.util import pad
 import torchvision
 
 import warnings
-
+from numpy import pad
 from skimage import img_as_ubyte, img_as_float
 
 
