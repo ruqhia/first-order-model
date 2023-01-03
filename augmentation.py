@@ -13,7 +13,6 @@ PIL.PILLOW_VERSION = __version__
 
 
 from skimage.transform import resize, rotate
-from skimage.util import pad
 import torchvision
 
 import warnings
